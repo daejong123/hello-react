@@ -1,3 +1,11 @@
+## 运行该例子
+cd hello-react
+
+yarn install
+
+yarn run start
+
+想自己动手的看下面：
 ## hello-react 基础
 npx create-react-app hello-react
 

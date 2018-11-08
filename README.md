@@ -1,3 +1,28 @@
+## hello-react 基础
+npx create-react-app hello-react
+
+cd hello-react
+
+运行: yarn start 
+
+构建: yarn build
+
+``` 
+单向数据流，组件化， jsx语法
+1. Component结构
+2. 无状态的组件和有状态组件
+3. props 和 state
+4. 类方法的bind(this)， 可以同let event = () => {}
+5. 交互事件，以及子向父传值
+6. 充分利用jsx语法， 进行列表处理和条件渲染
+7. 生命周期方法
+```
+
+[官网文档链接](https://react.docschina.org/docs/hello-world.html)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
